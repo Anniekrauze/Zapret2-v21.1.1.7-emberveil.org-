@@ -4,4 +4,8 @@
 <img width="1187" height="640" alt="Screenshot_2" src="https://github.com/user-attachments/assets/9e88379b-52f8-476f-9ea4-9a84073c03a9" />
 <img width="1543" height="426" alt="Screenshot_3" src="https://github.com/user-attachments/assets/e34e6999-4530-4270-9e67-b13db87495af" />
 
-Добавить второй файл в папку с программой emberveil-launcher.txt   Zapret\Stable\lists\user
+
+
+
+
+Добавить второй файл в папку с программой "emberveil-launcher.txt"   Zapret\Stable\lists\user
