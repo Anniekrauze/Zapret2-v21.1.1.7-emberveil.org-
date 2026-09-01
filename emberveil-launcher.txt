@@ -1,0 +1,4 @@
+emberveil.org
+launcher.emberveil.org
+api.emberveil.org
+auth.emberveil.org
